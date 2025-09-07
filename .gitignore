@@ -1,0 +1,24 @@
+﻿# dependencies
+node_modules/
+
+# environment
+.env
+
+# build/output
+dist/
+coverage/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+*.log
+
+# system / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# OneDrive temp
+OneDriveTemp/
